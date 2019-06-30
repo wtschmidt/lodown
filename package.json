@@ -1,0 +1,22 @@
+{
+  "name": "lodown-wtschmidt",
+  "version": "1.0.3",
+  "description": "my own lodown library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtschmidt/lodown.git"
+  },
+  "author": "Wesley Schmidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtschmidt/lodown/issues"
+  },
+  "homepage": "https://github.com/wtschmidt/lodown#readme"
+}
